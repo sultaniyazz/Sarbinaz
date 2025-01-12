@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '../../images/banner.png'
+
 import { SlArrowDown } from 'react-icons/sl'
 
 const Banner = ({ img }) => {
