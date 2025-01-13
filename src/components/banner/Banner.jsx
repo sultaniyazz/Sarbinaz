@@ -7,9 +7,9 @@ const Banner = ({ img }) => {
         <div className='h-[90vh] flex flex-col relative items-center justify-center'>
             <div className='w-full  flex max-md:flex-col-reverse'>
                 <div className='flex-1 flex flex-col gap-[1vw]'>
-                    <p className='text-gray-500 text-4xl  max-sm:text-3xl'>Lorem, ipsum.</p>
-                    <h1 className='text-6xl max-md:text-5xl max-sm:text-4xl'>Lorem, ipsum dolor. Lorem ipsum dolor sit amet.</h1>
-                    <p className='text-gray-500 text-2xl max-md:text-[3vw]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, pariatur!</p>
+                    <p className='text-gray-500 text-4xl  max-sm:text-3xl'>Xosh keldińiz!</p>
+                    <h1 className='text-6xl max-md:text-5xl max-sm:text-4xl'>Sizdi Ijara Úyler saytına mirát etemiz! Bul jerde siz ózińizge sáykes ijara úyin ańsat hám tez tabıwıńız múmkin.</h1>
+                    <p className='text-gray-500 text-2xl max-md:text-[3vw]'>Tómendegi bólimler arqalı qızıqlı jaylar haqqında maǵlıwmat alıw imkaniyatına ie bolasız.</p>
                     <div className=''>
                         <button className='bg-green-800 duration-100 text-2xl max-md:text-xl text-white font-bold py-[.8vw] px-[4vw] rounded-[.5vw] active:scale-95'>Get Started</button>
                     </div>
