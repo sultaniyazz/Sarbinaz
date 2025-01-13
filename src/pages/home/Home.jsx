@@ -18,10 +18,10 @@ const Home = () => {
             <div className="px-[6vw]">
                 <div><Banner img={img} /></div>
                 <div className="flex max-sm:flex-col max-sm:grid max-sm:grid-cols-2">
-                    <Cards icon={<ImLocation />} p={'320 тысяч вариантов квартиры, отели, гостевые дома'} />
-                    <Cards icon={<IoIosPricetags />} p={'Цены напрямую от хозяев жилья'} />
-                    <Cards icon={<IoMdShareAlt />} p={'Кэшбэк бонусами после каждой поездки'} />
-                    <Cards icon={<AiFillPhone />} p={'Круглосуточная служба поддержки'} />
+                    <Cards icon={<ImLocation />} p={'320 mıń kvartira, miyman úyleri, miymanxana variantları'} />
+                    <Cards icon={<IoIosPricetags />} p={'Bahalar tikkeley turaq jay ielerinen'} />
+                    <Cards icon={<IoMdShareAlt />} p={'Hár sapardan keyin bonuslar menen keshbek'} />
+                    <Cards icon={<AiFillPhone />} p={'Kúni-túni járdem xızmeti'} />
                 </div>
             </div>
             <div><About /></div>

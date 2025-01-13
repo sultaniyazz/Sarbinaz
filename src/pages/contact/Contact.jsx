@@ -13,14 +13,14 @@ const Contact = () => {
             </div>
             <div className="bg-gray-100 py-12">
                 <div className="container mx-auto px-4">
-                    <h2 className="text-3xl font-bold text-center text-green-600 mb-6">Biz bilan bog'laning</h2>
+                    <h2 className="text-3xl font-bold text-center text-green-600 mb-6">Bizge baylanısıń</h2>
                     <p className="text-center text-gray-600 mb-8">
-                        Agar savollaringiz yoki takliflaringiz bo'lsa, quyidagi forma orqali bog'lanishingiz mumkin.
+                        Eger sorawlarıńız yaki usınıslarıńız bolsa, tómendegi forma arqalı baylanısıwıńız múmkin.
                     </p>
                     <div className="max-w-2xl mx-auto bg-white shadow-lg rounded-lg p-8">
                         <form>
                             <div className="mb-6">
-                                <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">Ismingiz</label>
+                                <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">Atıńız</label>
                                 <input
                                     type="text"
                                     id="name"
@@ -57,7 +57,7 @@ const Contact = () => {
                                     type="submit"
                                     className="bg-green-600 text-white py-2 px-6 rounded-lg hover:bg-green-700 transition duration-200"
                                 >
-                                    Xabar yuborish
+                                    Xabar jiberiw
                                 </button>
                             </div>
                         </form>
